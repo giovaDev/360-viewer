@@ -1,2 +1,3 @@
-./node_modules
-./routes/untitled.obj
+/node_modules
+/routes/untitled.obj
+/routes/test*
